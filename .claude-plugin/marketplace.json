@@ -1,0 +1,16 @@
+{
+  "name": "personify-marketplace",
+  "owner": {
+    "name": "Muhammad Abdullah Khalil"
+  },
+  "plugins": [
+    {
+      "name": "personify",
+      "source": "./",
+      "description": "Turn any task into a ready-to-paste expert role prompt you can hand to an AI.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "tags": ["prompting", "personas", "role-prompt", "system-prompt", "productivity"]
+    }
+  ]
+}

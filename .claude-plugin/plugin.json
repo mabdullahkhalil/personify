@@ -1,0 +1,12 @@
+{
+  "name": "personify",
+  "version": "1.0.0",
+  "description": "Turn any task or instruction into a ready-to-paste prompt that casts an AI as the ideal expert to do it. It infers the role from the task, loads it with real technical substance and a working approach, and weaves your task in at the end.",
+  "author": {
+    "name": "Muhammad Abdullah Khalil"
+  },
+  "homepage": "https://github.com/mabdullahkhalil/personify",
+  "repository": "https://github.com/mabdullahkhalil/personify",
+  "license": "MIT",
+  "keywords": ["prompting", "personas", "role-prompt", "system-prompt", "productivity"]
+}
