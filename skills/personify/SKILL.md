@@ -4,7 +4,7 @@ description: Turn any task or instruction into a ready-to-paste prompt that cast
 license: MIT
 metadata:
   author: Muhammad Abdullah Khalil
-  version: "1.0.0"
+  version: "1.0.1"
 ---
 
 # personify

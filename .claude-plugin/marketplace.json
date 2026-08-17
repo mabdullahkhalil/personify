@@ -8,7 +8,7 @@
       "name": "personify",
       "source": "./",
       "description": "Turn any task into a ready-to-paste expert role prompt you can hand to an AI.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "category": "productivity",
       "tags": ["prompting", "personas", "role-prompt", "system-prompt", "productivity"]
     }
